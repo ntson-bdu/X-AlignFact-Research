@@ -1,7 +1,7 @@
 # X-AlignFact: Cross-Lingual Fact Verification via Curriculum-Driven Consistency Training
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YourUsername/X-AlignFact/blob/main/X_AlignFact_Colab_Pipeline.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ntson-bdu/X-AlignFact/blob/main/X_AlignFact.ipynb)
 
 Official implementation of the paper: **"X-AlignFact: A Cross-Lingual Alignment Framework for Bilingual Fact Verification in English and Vietnamese"** (Submitted to IEEE Access).
 
