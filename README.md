@@ -27,5 +27,5 @@ from google.colab import drive
 drive.mount('/content/drive')
 
 # Clone this repository into your Drive
-!git clone [https://github.com/YourUsername/X-AlignFact.git](https://github.com/YourUsername/X-AlignFact.git) /content/drive/MyDrive/X-AlignFact
+!git clone [https://github.com/ntson-bdu/X-AlignFact.git](https://github.com/YourUsername/X-AlignFact-Research.git) /content/drive/MyDrive/X-AlignFact
 %cd /content/drive/MyDrive/X-AlignFact
