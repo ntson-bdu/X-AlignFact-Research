@@ -1,0 +1,15 @@
+# Minimum versions; the exact environment of every run is saved to runs/*/env.json (pip freeze).
+torch>=2.3
+transformers>=4.40
+datasets>=2.19
+sentencepiece
+protobuf
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+# optional
+deep-translator      # only if the parallel corpus is re-translated
+underthesea          # PhoBERT baseline word segmentation
+sentence-transformers   # optional: LaBSE similarity in scripts/translation_quality.py

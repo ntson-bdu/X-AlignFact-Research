@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "X-AlignFact v2: cross-lingual alignment for bilingual fact verification in English and Vietnamese"
+version: "2.0"
+doi: 10.5281/zenodo.23850412
+license: MIT
+repository-code: "https://github.com/ntson-bdu/X-AlignFact-Research"
+date-released: 2026-11-16
+authors:
+  - family-names: Nguyen
+    given-names: Son Thanh
+    orcid: "https://orcid.org/0009-0007-6173-8921"
+    affiliation: "Posts and Telecommunications Institute of Technology; Thu Dau Mot University"
+  - family-names: Huynh
+    given-names: Trong-Thua
+    affiliation: "Posts and Telecommunications Institute of Technology"
+  - family-names: Le
+    given-names: Huu Lap
+    orcid: "https://orcid.org/0009-0009-3955-9366"
+    affiliation: "Posts and Telecommunications Institute of Technology"
+  - family-names: Le
+    given-names: Tuan-Anh
+    affiliation: "Thu Dau Mot University"
